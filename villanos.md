@@ -2,5 +2,4 @@
 
 Dr. Doom
 Red Skull
-Dr. Asimov
-Dr. Herrera
+Capitan América
