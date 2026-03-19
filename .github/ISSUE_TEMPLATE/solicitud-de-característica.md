@@ -2,7 +2,7 @@
 name: Solicitud de característica
 about: Cuéntanos que te gustaría agregar
 title: ''
-labels: ''
+labels: enhancement
 assignees: ''
 
 ---
